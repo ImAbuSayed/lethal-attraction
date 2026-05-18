@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lethal-attraction/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Lethal Attraction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lethal-attraction/) |
+| **Get License** | [Music Rights & Licensing for Lethal Attraction](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lethal-attraction/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9974c5c81414c42a8cc45c7d35f32362c74eb07bd954e0cf3a8dfe9b6918bac4` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
